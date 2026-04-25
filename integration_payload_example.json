@@ -1,0 +1,25 @@
+{
+  "player_id": "PLAYER_001",
+  "match_id": "MATCH_2024_01",
+  "innings_id": "INN_001",
+  "innings_data": [
+    {
+      "runs": 45,
+      "balls": 30,
+      "out": false,
+      "phase": "powerplay",
+      "rrr": 7.5,
+      "crr": 9.0,
+      "wkts": 1
+    },
+    {
+      "runs": 28,
+      "balls": 22,
+      "out": true,
+      "phase": "death",
+      "rrr": 12.0,
+      "crr": 8.5,
+      "wkts": 7
+    }
+  ]
+}

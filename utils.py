@@ -80,7 +80,7 @@ def risk_penalty(pressure_innings):
 # =============================
 # SUMMARY GENERATOR
 # =============================
-def generate_summary(score: float):
+def summary_gen(score):
     if score > 75:
         return "Player performs consistently under extreme pressure with strong control and execution."
     elif score > 50:
